@@ -1,5 +1,5 @@
 <h1 align ="center"> Crypto Light House </h1>
-## Distilled news about Cryptocurrencies freshly delivered to your messenger !!
+<strong> Distilled news about Cryptocurrencies freshly delivered to your messenger !!</strong>
 
 Crypto Light House est un ChatBot qui vous guide dans l'océan d'information des cryptomonnaies.
 Notre ChatBot scrappe toutes les news et les anlyse disponibles sur le sujet des cryptomonnaie et leur applique un algorithme de scoring.
