@@ -28,4 +28,7 @@ The Cryptocurrencies most accurate news freshly delivered to your messenger
 ![User Journer](https://i.imgur.com/F8KZrGs.png)
 
 ---
-![User Journer](https://i.imgur.com/F8KZrGs.png)
+![Prototype](https://i.imgur.com/74BRvDg.png)
+
+---
+![Prototype](https://i.imgur.com/jLD68tz.png)
