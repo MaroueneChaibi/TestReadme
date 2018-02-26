@@ -1,7 +1,5 @@
-# TestReadme
-Test for the Bot
-
-
+# CryptoJam
+The Cryptocurrencies most accurate news freshly delivered to your messenger
 
 ![LOGO](https://i.imgur.com/SLVUdpq.png)
 
@@ -15,4 +13,13 @@ Test for the Bot
 ![Problem](https://i.imgur.com/oq81bzz.png)
 
 ---
-![Problem](https://i.imgur.com/oq81bzz.png)
+![Solution](https://i.imgur.com/v08Xqj4.png)
+
+---
+![Solution](https://i.imgur.com/SkrJd9d.png)
+
+---
+![Solution](https://i.imgur.com/cwlUFeE.png)
+
+---
+![User Journer](https://i.imgur.com/0gHkVqX.png)
