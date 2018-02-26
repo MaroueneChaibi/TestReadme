@@ -3,4 +3,9 @@ Test for the Bot
 
 
 
-![alt text](https://i.imgur.com/SLVUdpq.png)
+![LOGO](https://i.imgur.com/SLVUdpq.png)
+
+---
+
+![Context](https://i.imgur.com/qwmjoYG.png)
+
