@@ -1,4 +1,4 @@
-# CryptoJam
+# CryptoLightHouse
 The Cryptocurrencies most accurate news freshly delivered to your messenger
 
 ![LOGO](https://i.imgur.com/SLVUdpq.png)
@@ -32,3 +32,6 @@ The Cryptocurrencies most accurate news freshly delivered to your messenger
 
 ---
 ![Prototype](https://i.imgur.com/jLD68tz.png)
+
+---
+![Prototype](https://i.imgur.com/kN91KwH.png)
