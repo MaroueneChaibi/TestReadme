@@ -1,4 +1,4 @@
-#                                               Crypto Light House
+#______________________________________  Crypto Light House_
 ## Distilled news about Cryptocurrencies freshly delivered to your messenger !!
 
 Crypto Light House est un ChatBot qui vous guide dans l'océan d'information des cryptomonnaies.
