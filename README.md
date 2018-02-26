@@ -1,5 +1,7 @@
-# CryptoLightHouse
-The Cryptocurrencies most accurate news freshly delivered to your messenger
+<center># CryptoLightHouse</center>
+Distilled news about Cryptocurrencies freshly delivered to your messenger !!
+
+##
 
 ![LOGO](https://i.imgur.com/SLVUdpq.png)
 
